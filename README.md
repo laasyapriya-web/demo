@@ -64,14 +64,7 @@ It integrates **Machine Learning**, **React + Material-UI frontend**, **Flask ba
 ## 🏗️ System Architecture
 
 ```mermaid
-flowchart TD
-    A[User Webcam Input] --> B[Face Detection & Preprocessing]
-    B --> C[Emotion Recognition Model (CNN)]
-    C --> D[Emotion Classification]
-    D --> E[Emotion-to-Genre Mapping]
-    E --> F[Spotify API Integration (Flask Backend)]
-    F --> G[Personalized Playlist Display (React + Material-UI)]
-    G --> H[User Music Playback]
+
 
 ---
 ## ⚙️ Tech Stack
@@ -206,4 +199,3 @@ Coordinator: Pradyumna V
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-# demo
