@@ -164,7 +164,6 @@ python emotion_model.py
 ![Screenshot 17](17.jpg)
 ![Screenshot 18](18.jpg)
 
-
 ## 🎬 Demo GIF
 
 ![Demo GIF](video.gif)
