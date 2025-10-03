@@ -58,26 +58,20 @@ It integrates **Machine Learning**, **React + Material-UI frontend**, **Flask ba
 | Mobile responsive UI (Material-UI) | ✅ |
 | Personalized playlists & history | 🚧 (future) |
 
----
 
-## 🏗️ System Architecture
-
-```mermaid
-
-
----
 ## ⚙️ Tech Stack
-Frontend: React + Material-UI
+1.Frontend: React + Material-UI
 
-Backend: Flask
+2.Backend: Flask
 
-Machine Learning: Python, TensorFlow/Keras
+3.Machine Learning: Python, TensorFlow/Keras
 
-Database: Firebase Authentication (user data)
+4.Database: Firebase Authentication (user data)
 
-APIs: Spotify API
+5.APIs: Spotify API
 
----
+
+```
 📂 Project Structure
 ManoRaag/ 
 ├── frontend/        # React + Material-UI frontend 
@@ -92,7 +86,8 @@ ManoRaag/
 ├── package.json     # For the entire project (optional)
 ├── README.md 
 └── LICENSE 
-
+ 
+```
 ## 🚀 Setup & Installation
 Prerequisites
 Node.js v16+
