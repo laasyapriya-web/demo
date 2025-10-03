@@ -14,7 +14,6 @@
 - [📌 Overview](#-overview)
 - [🎯 Objectives](#-objectives)
 - [⚡ Features](#-features)
-- [🏗️ System Architecture](#-system-architecture)
 - [⚙️ Tech Stack](#-tech-stack)
 - [📂 Project Structure](#-project-structure)
 - [🚀 Setup & Installation](#-setup--installation)
