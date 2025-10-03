@@ -155,12 +155,6 @@ python emotion_model.py
 
 ## 📸 Screenshots
 
-<details>
-<summary>📸 Screenshots</summary>
-
-
-## Screenshots
-
 ![Screenshot 11](11.jpg)
 ![Screenshot 12](12.jpg)
 ![Screenshot 13](13.jpg)
@@ -169,10 +163,6 @@ python emotion_model.py
 ![Screenshot 16](16.jpg)
 ![Screenshot 17](17.jpg)
 ![Screenshot 18](18.jpg)
-
-
-</details>
-
 
 
 ## 🎬 Demo GIF
