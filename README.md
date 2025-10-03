@@ -154,24 +154,17 @@ python emotion_model.py
 5.Applying SOLID principles and standard design patterns in a real-world project structure.
 
 ## 📸 Screenshots
-<img width="1825" height="908" alt="Screenshot 2025-09-29 172746" src="https://github.com/user-attachments/assets/4d1fdbcb-7ea8-48d9-ba30-21ef006b6bbf" />
-
-<img width="1833" height="874" alt="Screenshot 2025-09-29 172835" src="https://github.com/user-attachments/assets/36a20303-6de2-4eda-a89f-7bfb09795882" />
-
-<img width="1855" height="870" alt="Screenshot 2025-09-29 172933" src="https://github.com/user-attachments/assets/6361ecc4-c3f9-4d20-a15c-296717f9724a" />
-
-<img width="1804" height="891" alt="Screenshot 2025-09-29 173023" src="https://github.com/user-attachments/assets/c3fcb78a-a49d-4657-b6e4-6b3d445f6f55" />
-
-<img width="1764" height="916" alt="Screenshot 2025-09-29 173128" src="https://github.com/user-attachments/assets/5b09187a-bd7f-43cf-b732-e950fb03498f" />
-
-<img width="1765" height="886" alt="Screenshot 2025-09-29 173238" src="https://github.com/user-attachments/assets/658b2302-a288-42a8-bef7-05b569e2696e" />
-
-<img width="1783" height="909" alt="Screenshot 2025-09-29 173355" src="https://github.com/user-attachments/assets/add13cc1-b735-4953-b039-91bc5e263e31" />
-
-<img width="1859" height="874" alt="Screenshot 2025-09-29 173527" src="https://github.com/user-attachments/assets/6e88456e-f38c-4616-9442-09a3192bca6c" />
-
-<img width="1870" height="848" alt="Screenshot 2025-09-29 195931" src="https://github.com/user-attachments/assets/24a5b7ad-1491-4259-877e-664bb2ca948a" />
-
+<details>
+![Screenshot 1](https://github.com/user-attachments/assets/4d1fdbcb-7ea8-48d9-ba30-21ef006b6bbf)
+![Screenshot 2](https://github.com/user-attachments/assets/36a20303-6de2-4eda-a89f-7bfb09795882)
+![Screenshot 3](https://github.com/user-attachments/assets/6361ecc4-c3f9-4d20-a15c-296717f9724a)
+![Screenshot 4](https://github.com/user-attachments/assets/c3fcb78a-a49d-4657-b6e4-6b3d445f6f55)
+![Screenshot 5](https://github.com/user-attachments/assets/5b09187a-bd7f-43cf-b732-e950fb03498f)
+![Screenshot 6](https://github.com/user-attachments/assets/658b2302-a288-42a8-bef7-05b569e2696e)
+![Screenshot 7](https://github.com/user-attachments/assets/add13cc1-b735-4953-b039-91bc5e263e31)
+![Screenshot 8](https://github.com/user-attachments/assets/6e88456e-f38c-4616-9442-09a3192bca6c)
+![Screenshot 9](https://github.com/user-attachments/assets/24a5b7ad-1491-4259-877e-664bb2ca948a)
+</details>
 
 ## 🎬 Demo GIF
 (Placeholder for an animated GIF demonstrating real-time emotion detection and music change)
