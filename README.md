@@ -158,14 +158,24 @@ python emotion_model.py
 <details>
 <summary>📸 Screenshots</summary>
 
-<img src="https://github.com/user-attachments/assets/3f4c5894-2732-4ebd-8b7b-f7e384bab55d" width="800" />
-<img src="https://github.com/user-attachments/assets/b481141d-a61b-4455-bad6-fadb8826a9fd" width="800" />
-<img src="https://github.com/user-attachments/assets/19129ef2-724b-4917-b80f-c826b39da116" width="800" />
-<img src="https://github.com/user-attachments/assets/c99711b5-47a8-459f-a232-8c456dd0d957" width="800" />
-<img src="https://github.com/user-attachments/assets/84c3e1f4-376b-4ca4-bc8a-f3ca2e0222e7" width="800" />
-<img src="https://github.com/user-attachments/assets/36c4d256-d938-4bd8-9dd9-54c944c10bff" width="800" />
-<img src="https://github.com/user-attachments/assets/228feb87-9e5a-4b83-a61f-621e1009b0c4" width="800" />
 
+<img width="1825" height="908" alt="Screenshot 2025-09-29 172746" src="https://github.com/user-attachments/assets/4d1fdbcb-7ea8-48d9-ba30-21ef006b6bbf" />
+
+<img width="1833" height="874" alt="Screenshot 2025-09-29 172835" src="https://github.com/user-attachments/assets/36a20303-6de2-4eda-a89f-7bfb09795882" />
+
+<img width="1855" height="870" alt="Screenshot 2025-09-29 172933" src="https://github.com/user-attachments/assets/6361ecc4-c3f9-4d20-a15c-296717f9724a" />
+
+<img width="1804" height="891" alt="Screenshot 2025-09-29 173023" src="https://github.com/user-attachments/assets/c3fcb78a-a49d-4657-b6e4-6b3d445f6f55" />
+
+<img width="1764" height="916" alt="Screenshot 2025-09-29 173128" src="https://github.com/user-attachments/assets/5b09187a-bd7f-43cf-b732-e950fb03498f" />
+
+<img width="1765" height="886" alt="Screenshot 2025-09-29 173238" src="https://github.com/user-attachments/assets/658b2302-a288-42a8-bef7-05b569e2696e" />
+
+<img width="1783" height="909" alt="Screenshot 2025-09-29 173355" src="https://github.com/user-attachments/assets/add13cc1-b735-4953-b039-91bc5e263e31" />
+
+<img width="1859" height="874" alt="Screenshot 2025-09-29 173527" src="https://github.com/user-attachments/assets/6e88456e-f38c-4616-9442-09a3192bca6c" />
+
+<img width="1870" height="848" alt="Screenshot 2025-09-29 195931" src="https://github.com/user-attachments/assets/24a5b7ad-1491-4259-877e-664bb2ca948a" />
 </details>
 
 
