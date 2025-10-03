@@ -158,15 +158,16 @@ python emotion_model.py
 <details>
 <summary>📸 Screenshots</summary>
 
-![Image 1](https://github.com/user-attachments/assets/3f4c5894-2732-4ebd-8b7b-f7e384bab55d)
-![Image 2](https://github.com/user-attachments/assets/b481141d-a61b-4455-bad6-fadb8826a9fd)
-![Image 3](https://github.com/user-attachments/assets/19129ef2-724b-4917-b80f-c826b39da116)
-![Image 4](https://github.com/user-attachments/assets/c99711b5-47a8-459f-a232-8c456dd0d957)
-![Image 5](https://github.com/user-attachments/assets/84c3e1f4-376b-4ca4-bc8a-f3ca2e0222e7)
-![Image 6](https://github.com/user-attachments/assets/36c4d256-d938-4bd8-9dd9-54c944c10bff)
-![Image 7](https://github.com/user-attachments/assets/228feb87-9e5a-4b83-a61f-621e1009b0c4)
+<img src="https://github.com/user-attachments/assets/3f4c5894-2732-4ebd-8b7b-f7e384bab55d" width="800" />
+<img src="https://github.com/user-attachments/assets/b481141d-a61b-4455-bad6-fadb8826a9fd" width="800" />
+<img src="https://github.com/user-attachments/assets/19129ef2-724b-4917-b80f-c826b39da116" width="800" />
+<img src="https://github.com/user-attachments/assets/c99711b5-47a8-459f-a232-8c456dd0d957" width="800" />
+<img src="https://github.com/user-attachments/assets/84c3e1f4-376b-4ca4-bc8a-f3ca2e0222e7" width="800" />
+<img src="https://github.com/user-attachments/assets/36c4d256-d938-4bd8-9dd9-54c944c10bff" width="800" />
+<img src="https://github.com/user-attachments/assets/228feb87-9e5a-4b83-a61f-621e1009b0c4" width="800" />
 
 </details>
+
 
 
 ## 🎬 Demo GIF
